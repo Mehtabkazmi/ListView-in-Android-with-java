@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListviewClass</string>
+    <string-array name="musiclist">
+        <item>Python</item>
+        <item>Java</item>
+        <item>Programming</item>
+        <item>Android</item>
+        <item>C++</item>
+        <item>asp.net MVC</item>
+    </string-array>
+</resources>
